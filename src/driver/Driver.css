@@ -1,0 +1,107 @@
+
+/* .main_screen2{
+    background-color: #F2F2F2;
+    width: 1142px;
+    height: 788px;
+    margin: auto;
+}
+
+.dynamic2{
+    background-color: #FFFFFF;
+    width: 1130px;
+    height: 690px;
+    margin: auto;
+    margin-top: 12px;
+    border-radius: 20px;
+} */
+
+.head5{
+    margin-left: 30px;
+    margin-top: -83px;
+    font-family: Roboto;
+    font-size: 18px;
+    color: #000000;
+    font-weight: 600;
+    padding-top: 90px;
+}
+.headdd5{
+    font-size: 25px;
+    font-family: roboto;
+    font-weight: 700;
+    padding-top: 2px;
+    margin-left: 35px;
+}
+
+.driverdetail{
+    display: flex;
+    margin-left: 650px;
+    margin-top: -4px;
+}
+.driver1{
+    font-size: 19px;
+    font-family: roboto;
+    font-weight: 700;
+    margin-right: 230px;
+  }
+  .mb-2{
+      width: 300px;
+      height: 35px;
+      border-radius: 12px;
+  }
+  .driver2{
+    font-size: 19px;
+    font-family: roboto;
+    font-weight: 700;
+    margin-right: 230px;
+    margin-top: 20px;
+  }
+  .mb-4{
+    width: 300px;
+    height: 35px;
+    border-radius: 12px;
+}
+.driver3{
+    font-size: 19px;
+    font-family: roboto;
+    font-weight: 700;
+    margin-right: 230px;
+    margin-top: 20px;
+  }
+  .mb-5{
+    width: 300px;
+    height: 35px;
+    border-radius: 12px;
+}
+.driver4{
+    font-size: 19px;
+    font-family: roboto;
+    font-weight: 700;
+    margin-right: 230px;
+    margin-top: 20px;
+  }
+  .mb-6{
+    width: 300px;
+    height: 35px;
+    border-radius: 12px;
+}
+#sub1{
+    font-size: 19px;
+    font-family: roboto;
+    font-weight: 700;
+    color: white;
+    width: 250px;
+    border-radius: 30px;
+    background-color: #FE3B4F;
+    margin-top: 30px;
+    height: 35px;
+    margin-left: 37px;
+   }
+
+
+
+
+
+
+
+
+

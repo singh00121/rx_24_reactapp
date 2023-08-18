@@ -1,0 +1,40 @@
+
+/* .main_screen2{
+    background-color: #F2F2F2;
+    width: 1142px;
+    height: 788px;
+    margin: auto;
+}
+
+.dynamic2{
+    background-color: #FFFFFF;
+    width: 1130px;
+    height: 690px;
+    margin: auto;
+    margin-top: 12px;
+    border-radius: 20px;
+} */
+
+.head1{
+    margin-left: 30px;
+    margin-top: -83px;
+    font-family: Roboto;
+    font-size: 18px;
+    color: #000000;
+    font-weight: 600;
+    padding-top: 90px;
+}
+.headdd{
+    font-size: 25px;
+    font-family: roboto;
+    font-weight: 700;
+    padding-top: 2px;
+    margin-left: 35px;
+}
+.dropdown2{
+  /* border: 2px solid grey;  */
+  width:120px;
+  margin-left:200px;
+  border-radius:12px;
+  height:30px;
+}
